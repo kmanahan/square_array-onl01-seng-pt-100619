@@ -4,5 +4,6 @@ results = []
 
 array.each do |num|
   results << num ** 2
-  
+end 
+array
 end
