@@ -1,5 +1,7 @@
 def square_array(array)
   # your code here
-index = []
-array << (index ** 2) 
+results = []
+
+array.each do |num|
+  
 end
